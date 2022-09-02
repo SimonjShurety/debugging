@@ -1,5 +1,7 @@
 # debugging
 
+https://www.theodinproject.com/lessons/foundations-understanding-errors
+
 https://developer.chrome.com/docs/devtools/javascript/
 
 https://googlechrome.github.io/devtools-samples/debug-js/get-started
