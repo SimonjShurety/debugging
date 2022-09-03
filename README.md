@@ -18,3 +18,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
 
 ![image](https://user-images.githubusercontent.com/102368650/188265226-15eeffef-973f-4415-ad8a-5b3731059b6b.png)
 
+
+Click Resume script execution Resume Script Execution.
+
+In the Code Editor, replace line 31, var sum = addend1 + addend2, with var sum = parseInt(addend1) + parseInt(addend2).
+
+Press Command + S (Mac) or Control + S (Windows, Linux) to save your change.
+
+Click Deactivate breakpoints Deactivate breakpoints. Its color changes to blue to indicate that it's active. While this is set, DevTools ignores any breakpoints you've set.
+
+Try out the demo with different values. The demo now calculates correctly.
+
+![image](https://user-images.githubusercontent.com/102368650/188265838-e7dc2a30-4b0a-4cca-9d53-265c8b6aeefa.png)
+
+
